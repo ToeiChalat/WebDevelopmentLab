@@ -1,0 +1,34 @@
+
+#container {
+	border: 1px solid black;
+	height: auto;
+	width: 700px;
+	position: relative;
+	margin: 0px auto;
+}
+
+#intro {
+	font-family: Arial;
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: orange;
+}
+
+#overview {
+	font-family: Times New Roman;
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: yellow;
+}
+
+#motivation {
+	border: 1px solid black;
+	color: blue;
+	width: 100%;
+	height: auto;
+	background-color: red;
+}
